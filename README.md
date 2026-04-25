@@ -77,3 +77,29 @@ SokoNinja provides:
 
 ## 🧾 Input Example
 
+Crop: Maize
+Location: Eldoret
+Prices: Nairobi 5200, Eldoret 4600
+Weather: Heavy rainfall expected
+Demand: High in Nairobi
+
+
+---
+
+## 📊 Output
+
+Displayed in cards:
+- 📊 Market Comparison  
+- 📈 Trend Prediction  
+- 🤝 Negotiation Advice  
+- 🌦️ Weather Insight  
+- 📍 Recommendation  
+
+---
+
+## 🚀 Setup
+
+```bash
+npm install
+node server.js
+
