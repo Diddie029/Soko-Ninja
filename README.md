@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/cda7867f-b819-40e2-ac93-896253e794db
+Live-Link of the app: https://soko-ninja.vercel.app/
 
 ## Run Locally
 
