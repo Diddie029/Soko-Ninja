@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "ui-sans-serif", "system-ui", "sans-serif";
+  
+  --color-primary: #15803d;
+  --color-primary-light: #dcfce7;
+  --color-secondary: #78350f;
+  --color-background: #f8fafc;
+  --color-card: #ffffff;
+  --color-border: #e2e8f0;
+  --color-text-main: #0f172a;
+  --color-text-muted: #64748b;
+  --color-accent: #f59e0b;
+  
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+@variant dark (&:where(.dark, .dark *));
+
+.dark {
+  --color-background: #020617;
+  --color-card: #0f172a;
+  --color-border: #1e293b;
+  --color-text-main: #f8fafc;
+  --color-text-muted: #94a3b8;
+  --color-primary-light: #064e3b;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-text-main antialiased;
+  }
+}
+
