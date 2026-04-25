@@ -78,9 +78,13 @@ SokoNinja provides:
 ## 🧾 Input Example
 
 Crop: Maize
+
 Location: Eldoret
+
 Prices: Nairobi 5200, Eldoret 4600
+
 Weather: Heavy rainfall expected
+
 Demand: High in Nairobi
 
 
