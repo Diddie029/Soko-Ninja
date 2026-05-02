@@ -63,7 +63,7 @@ SokoNinja provides:
 - **Price Prediction** → Know when to sell  
 - **Negotiation Tips** → Know how to sell  
 - **Weather Insights** → Understand price changes  
-- **Language Switcher** → 🌐 English | Kiswahili | Sheng | Auto  
+- **Language Switcher** → 🌐 English | Kiswahili | Sheng | Auto  (Basically mixture of all languages)
 
 ---
 
