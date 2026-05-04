@@ -21,7 +21,7 @@ Live-Link of the app: https://soko-ninja.vercel.app/
 
    # 🌾 SokoNinja
 
-**SokoNinja** is an AI-powered Market Negotiator that helps small-scale farmers in Kenya make better selling decisions using market data, predictive insights, and weather analysis.
+**SokoEssence** is an AI-powered Market Negotiator that helps small-scale farmers in Kenya make better selling decisions using market data, predictive insights, and weather analysis.
 
 ---
 
@@ -39,7 +39,7 @@ Farmers often:
 
 ## 💡 Solution
 
-SokoNinja provides:
+SokoEssence provides:
 - 📊 Market price comparison  
 - 📈 Predictive pricing insights  
 - 🤝 Negotiation assistance  
